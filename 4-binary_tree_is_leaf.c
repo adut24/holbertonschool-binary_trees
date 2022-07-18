@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_is_leaf - check if node is a leaf
- * @node - node to check
+ * @node: node to check
  * Return: 0 or 1
  */
 int binary_tree_is_leaf(const binary_tree_t *node)
