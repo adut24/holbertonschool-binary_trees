@@ -27,7 +27,7 @@ size_t binary_tree_height(const binary_tree_t *tree)
 
 
 /**
- * binary_tree_is_perfect -
+ * binary_tree_is_perfect - verify that the height of both sides is the same
  * @tree: the tree
  * Return: 0 or 1
  */
