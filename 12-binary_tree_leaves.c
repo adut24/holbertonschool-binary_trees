@@ -2,10 +2,9 @@
 
 /**
 * binary_tree_leaves - function that counts leaves
-* @tree - the tree
+* @tree: the tree
 * Return: number of leaves
 */
-
 size_t binary_tree_leaves(const binary_tree_t *tree)
 {
 	if (!tree)
