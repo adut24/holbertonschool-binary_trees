@@ -1,6 +1,13 @@
 #include "binary_trees.h"
 #include <limits.h>
 
+/**
+ * check_tree - check the tree
+ * @tree: binary tree
+ * @min: min value
+ * @max: max value
+ * Return: 0 or 1
+ */
 int check_tree(const binary_tree_t *tree, int min, int max)
 {
 	if (!tree)
